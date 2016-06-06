@@ -33,7 +33,7 @@ namespace SampleWhite
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            textBox2.Text = "Sample clixk2";
+            textBox1.Text = "Sample clixk2";
         }
     }
 }
